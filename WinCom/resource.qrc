@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>resource/add.png</file>
+        <file>resource/cleanport.png</file>
+        <file>resource/clearbytes.png</file>
+        <file>resource/edit-clear.png</file>
+        <file>resource/exit.png</file>
+        <file>resource/header.bmp</file>
+        <file>resource/linuxico.bmp</file>
+        <file>resource/loadfile.png</file>
+        <file>resource/logo.png</file>
+        <file>resource/mesage.png</file>
+        <file>resource/open.png</file>
+        <file>resource/save.png</file>
+        <file>resource/send.png</file>
+        <file>resource/stop.png</file>
+        <file>resource/write2file.png</file>
+    </qresource>
+</RCC>

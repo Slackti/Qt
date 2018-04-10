@@ -35,3 +35,6 @@ HEADERS  += mainwindow.h \
     win_qextserialport.h
 
 FORMS    += mainwindow.ui
+
+RESOURCES += \
+    resource.qrc
