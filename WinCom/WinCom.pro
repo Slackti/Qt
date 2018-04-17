@@ -4,7 +4,8 @@
 #
 #-------------------------------------------------
 
-QT       += core gui
+QT       += core gui serialport
+RC_ICONS += wincom.ICO
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
@@ -25,16 +26,16 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += main.cpp\
         mainwindow.cpp \
-    qextserialbase.cpp \
-    qextserialport.cpp \
-    win_qextserialport.cpp
+    searchdialog.cpp
 
 HEADERS  += mainwindow.h \
-    qextserialbase.h \
-    qextserialport.h \
-    win_qextserialport.h
+    comboboxtoqt5serialport.h \
+    searchdialog.h
 
-FORMS    += mainwindow.ui
+FORMS    += mainwindow.ui \
+    searchdialog.ui
 
 RESOURCES += \
-    resource.qrc
+    resource.qrc \
+    textfinder.qrc
+

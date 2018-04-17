@@ -15,5 +15,8 @@
         <file>resource/send.png</file>
         <file>resource/stop.png</file>
         <file>resource/write2file.png</file>
+        <file>resource/lihai.gif</file>
+        <file>resource/find.png</file>
+        <file>resource/wincom.ICO</file>
     </qresource>
 </RCC>
