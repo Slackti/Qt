@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>forms/input.txt</file>
+    </qresource>
+</RCC>
