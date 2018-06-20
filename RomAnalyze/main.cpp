@@ -6,8 +6,8 @@
 int main(int argc, char *argv[])
 {
     QApplication app(argc, argv);
-    app.setApplicationName("RomAnalyze");
-    app.setOrganizationName("RomAnalyze");
+    app.setApplicationName("QHexEdit2");
+    app.setOrganizationName("QHexEdit2");
     MainWindow *mainWin = new MainWindow;
     mainWin->show();
 
