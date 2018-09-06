@@ -17,6 +17,5 @@
         <file>resource/write2file.png</file>
         <file>resource/lihai.gif</file>
         <file>resource/find.png</file>
-        <file>resource/wincom.ICO</file>
     </qresource>
 </RCC>
